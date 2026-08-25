@@ -32,7 +32,7 @@
 ### Tools & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,wsl" />
 </p>
 
 ---
