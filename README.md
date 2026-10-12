@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Hoàng Xuân Phương
-
+# 👋 Hi, from Viet Nam 🇻🇳
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ho%C3%A0ng%20Xu%C3%A2n%20Ph%C6%B0%C6%A1ng;Competitive%20Programmer;Backend%20Developer;Learning%20AI" />
+</p>
 ### 💻 Information Technology Student | C++ Developer | Backend Learner
 
 
@@ -32,29 +34,12 @@
 ### Tools & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,wsl" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql" />
 </p>
 
----
-
-## 📚 Currently Learning
-
-```text
-C++
- ├── STL
- ├── Data Structures
- ├── Algorithms
- ├── Competitive Programming
- └── Problem Solving
-
-Java
- ├── OOP
- ├── Spring Boot
- ├── REST API
- ├── JWT Authentication
- └── Backend Architecture
-```
-
+<p>
+  <img src="https://camo.githubusercontent.com/cecb8d8c5d4f0f12539027a418fcb1c5c40845e532e0e32eebd4a597d4ada8c4/68747470733a2f2f636f6f6c726561646d652e78797a2f6170692f666f782d636172643f757365723d746f7276616c64732673747265616b3d323030266c6f6e676573743d32303026746f74616c3d3138353030" />
+</p>
 ---
 
 ## 🚀 Featured Projects
@@ -72,10 +57,17 @@ Backend system built with:
 Collection of my implementations and solutions:
 
 `C++` `STL` `Algorithms` `Data Structures`
+### AI project 
+Cat_or_dog_prediction
+>Use 3 model to predict cat or dog and compare accuracy of three model: Deep learning, CNN and Machine learning.
 
+AI_hand_controlAI_hand_control
+>Using computer vision to recognize the human arm in order to replace the physical arm.
 ---
 
-
+<p>
+  <img src="https://raw.githubusercontent.com/ngducmanh21/ngducmanh21/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ## 📫 Connect With Me
 
 <p>
