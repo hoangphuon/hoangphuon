@@ -2,7 +2,7 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ho%C3%A0ng%20Xu%C3%A2n%20Ph%C6%B0%C6%A1ng;Competitive%20Programmer;Backend%20Developer;Learning%20AI" />
 </p>
-### 💻 Information Technology Student | C++ Developer | Backend Learner
+### 💻 Information Technology Student | Backend Learner | Competer-vision | AI Engineer
 
 
 ---
